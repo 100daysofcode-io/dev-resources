@@ -70,7 +70,7 @@ export const resources: Resource[] = [
         categories: ['Learning', 'Programming', 'Career Development', 'Interview Preparation'],
         description:
             'A comprehensive 100-day roadmap for aspiring programmers',
-        keywords: ['100DaysOfCode', 'Java', 'Python', 'Nodejs', 'Reactjs', 'sql', 'database'],
+        keywords: ['100DaysOfCode', 'Java', 'Python', 'Nodejs', 'Reactjs', 'sql', 'database', 'mongodb'],
         url: 'https://100daysofcode.io/',
     },
 ]
