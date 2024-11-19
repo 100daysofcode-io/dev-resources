@@ -65,4 +65,12 @@ export const resources: Resource[] = [
         keywords: ['crowdsource', 'graphic design', 'design'],
         url: 'https://99designs.com/',
     },
+    {
+        name: '100DaysOfCode',
+        categories: ['Learning', 'Programming', 'Career Development', 'Interview Preparation'],
+        description:
+            'A comprehensive 100-day roadmap for aspiring programmers',
+        keywords: ['100DaysOfCode', 'Java', 'Python', 'Nodejs', 'Reactjs', 'sql', 'database'],
+        url: 'https://100daysofcode.io/',
+    },
 ]
